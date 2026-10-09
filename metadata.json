@@ -1,0 +1,6 @@
+{
+  "name": "Glossy Theory — Luxury Makeup & Cosmetics",
+  "description": "Premium makeup e-commerce experience featuring radiant beauty essentials, shade matching, seamless checkout, and integrated brand management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
